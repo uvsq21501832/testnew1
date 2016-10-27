@@ -2,7 +2,7 @@ package IP_PROJECTS.testnew1;
 
 /**
  * Hello world!
- *
+ **
  */
 public class App 
 {
